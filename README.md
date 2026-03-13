@@ -11,6 +11,8 @@
 
 - 📫 It is possible to reach me via my e-mail **joaojklgabriel@gmail.com**
 
+- 💻 And via my LinkedIn [https://www.linkedin.com/in/jo%C3%A3o-gabriel-42ab9935a]
+ 
 - ⚡ Fun fact **I can speak English.**
 
 <p align="left">
