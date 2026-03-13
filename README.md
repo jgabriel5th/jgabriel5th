@@ -5,11 +5,11 @@
 
 - At the moment, I'm studying **Python, Git, PHP, JavaScript/HTML/CSS, MySQL and MariaDB.**
 
-- 👨‍💻 My projects are available at my profile [https://github.com/jgabriel5th](https://github.com/jgabriel5th)
+- 👨‍💻 My projects are available at my profile [https://github.com/jgabriel5th?tab=repositories)
 
 - 💬 Ask me about **Python, it's the language I know the most.**
 
-- 📫 It is possible to reach via my e-mail **joaojklgabriel@gmail.com**
+- 📫 It is possible to reach me via my e-mail **joaojklgabriel@gmail.com**
 
 - ⚡ Fun fact **I can speak English.**
 
