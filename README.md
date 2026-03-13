@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm João Gabriel</h1>
 <h3 align="center">I'm currently a college student of Systems Analysis and Development, I'm also studying Database in another college.</h3>
 
-- I'm currently improving a small Python project [Supermarket Cashier](https://github.com/jgabriel5th/supermarket_cashier)
+- 🔥 I'm currently improving a small Python project [Supermarket Cashier](https://github.com/jgabriel5th/supermarket_cashier)
 
-- At the moment, I'm studying **Python, Git, PHP, JavaScript/HTML/CSS, MySQL and MariaDB.**
+- 📚 At the moment, I'm studying **Python, Git, PHP, JavaScript/HTML/CSS, MySQL and MariaDB.**
 
 - 👨‍💻 My projects are available at my profile [https://github.com/jgabriel5th?tab=repositories)
 
@@ -11,11 +11,12 @@
 
 - 📫 It is possible to reach me via my e-mail **joaojklgabriel@gmail.com**
 
-- 💻 And via my LinkedIn [https://www.linkedin.com/in/jo%C3%A3o-gabriel-42ab9935a]
+- 💻 And via my LinkedIn [www.linkedin.com/in/joão-gabriel-42ab9935a]
  
 - ⚡ Fun fact **I can speak English.**
 
 <p align="left">
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgabriel5th&show_icons=true&locale=en&layout=compact" alt="jgabriel5th" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
