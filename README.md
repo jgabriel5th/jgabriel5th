@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm João Gabriel</h1>
-<h3 align="center">I'm currently a college student of Systems Analysis and Development, I'm also studying Database in another college.</h3>
+<h3 align="center">I'm currently a college student of Systems Analysis and Development.</h3>
 
 - 🔥 I'm currently improving a small Python project [Supermarket Cashier](https://github.com/jgabriel5th/supermarket_cashier)
 
-- 📚 At the moment, I'm studying **Python, Git, PHP, JavaScript/HTML/CSS, MySQL and MariaDB.**
+- 📚 At the moment, I'm studying **Python, Git, PHP, JavaScript/HTML/CSS and MySQL**
 
 - 👨‍💻 My projects are available at my profile [https://github.com/jgabriel5th?tab=repositories)
 
