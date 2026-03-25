@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm João Gabriel</h1>
 <h3 align="center">I'm currently a college student of Systems Analysis and Development.</h3>
 
-- 🔥 I'm currently improving a small Python project [Supermarket Cashier](https://github.com/jgabriel5th/supermarket_cashier)
+- 🔥 I'm currently improving a small Python project [Supermarket Cashier](https://github.com/jgabriel5th/supermarket-cashier)
 
 - 📚 At the moment, I'm studying **Python, Git, JavaScript/HTML/CSS and MySQL**
 
