@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm João Gabriel</h1>
 <h3 align="center">I'm currently a college student of Systems Analysis and Development.</h3>
 
-- 🔥 I'm currently improving my Python programming skills, check it out:[python-studies](https://github.com/jgabriel5th/python-studies)
+- 🔥 I'm currently improving my Python programming skills, check it out: [python-studies](https://github.com/jgabriel5th/python-studies)
 
 - 📚 At the moment, I'm studying **Python, Git, JavaScript/HTML/CSS and MySQL**
 
